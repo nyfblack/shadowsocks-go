@@ -1,6 +1,6 @@
 # shadowsocks-go
 
-//一个翻墙的代理
+//一个代理
 
 Current version: 1.2.2 [![Build Status](https://travis-ci.org/shadowsocks/shadowsocks-go.png?branch=master)](https://travis-ci.org/shadowsocks/shadowsocks-go)
 
